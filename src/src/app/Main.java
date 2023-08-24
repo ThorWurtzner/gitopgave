@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Hello world!");
 
         // Det her er ekstra kode lol
+
+        // Nummer 2 kode på ny branch
     }
 }
